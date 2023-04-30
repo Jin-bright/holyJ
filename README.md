@@ -68,5 +68,4 @@ Holy J는 기존 모바일 중심이던 당근마켓을 게시판을 사용한 
 <hr>
 <b> 4. 설계</b>
  <h5> ◆ ER 다이어그램  </h5>
- <img src="![image](https://user-images.githubusercontent.com/77500290/235352709-f2e8e25a-edd5-46d8-aa2c-8333b215e276.png)
-" width="700"/>
+ <img src="https://user-images.githubusercontent.com/77500290/235352742-90bea644-1f2e-4bbe-b249-320ce2f4bb17.png" width="700"/>
